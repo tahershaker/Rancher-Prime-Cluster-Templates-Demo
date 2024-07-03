@@ -2,7 +2,7 @@ apiVersion: v2
 name: rancher-aws-cluster-templates-large-size
 description: A Helm chart for Rancher RKE2 Cluster template with large size instances
 version: 0.0.1
-icon: https://semver.org/
+icon: https://github.com/tahershaker/Rancher-Prime-Cluster-Templates-Demo/blob/main/Images/large-custer-size-icon.png
 annotations:
   catalog.cattle.io/type: cluster-template
   catalog.cattle.io/namespace: fleet-default

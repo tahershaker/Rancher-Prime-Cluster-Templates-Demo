@@ -2,7 +2,7 @@ apiVersion: v2
 name: rancher-aws-cluster-templates-small-size
 description: A Helm chart for Rancher RKE2 Cluster template with small size instances
 version: 0.0.1
-icon: https://semver.org/
+icon: https://github.com/tahershaker/Rancher-Prime-Cluster-Templates-Demo/blob/main/Images/small-custer-size-icon.png
 annotations:
   catalog.cattle.io/type: cluster-template
   catalog.cattle.io/namespace: fleet-default
